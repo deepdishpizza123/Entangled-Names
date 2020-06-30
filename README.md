@@ -1,7 +1,7 @@
 # Entangled-Names
-##### YQI Hackathon
-##### Team:
-##### 
+## YQI Hackathon
+## Team:
+## 
 - Paola
 - Nana
 - Amy
