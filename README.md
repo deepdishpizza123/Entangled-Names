@@ -1,7 +1,7 @@
 # Entangled-Names
 ## YQI Hackathon
-## Team:
-## 
+### Team:
+### 
 - Paola
 - Nana
 - Amy
@@ -9,7 +9,7 @@
 - Bruce
 
 * [Overview](#overview)
-* [Loading Instructions](#Loading)
+* [Loading Instructions](#loading instructions)
 * [Miscellany](#miscellany)
 
 ##### Testing
