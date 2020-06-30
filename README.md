@@ -9,7 +9,7 @@
 - Bruce
 
 * [Overview](#overview)
-* [Loading Instructions](#loading instructions)
+* [Loading Instructions](#loading)
 * [Miscellany](#miscellany)
 
 ##### Testing
@@ -20,7 +20,7 @@ This project has been tested on Jupyter Notebook 6.0.3 with:
 ##### Overview
 Write overview.  
 
-##### Loading Instructions
+##### Loading
 To load locally, download the repository, install [Jupyter](https://jupyter.org/) launch from your browser.
 
 ##### Instructions
