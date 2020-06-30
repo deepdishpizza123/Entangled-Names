@@ -27,7 +27,7 @@ To load locally, download the repository, install [Jupyter](https://jupyter.org/
 Enter instructions.
 
 #####  Miscellany
-The project is based on the IBM Quantum Experience using QisKit.  Thanks (as always) to IBM & Yale Quantum Institute.
+The project is based on the [IBM Quantum Experience](https://quantum-computing.ibm.com/) using [QisKit](https://qiskit.org/).  Thanks (as always) to IBM & Yale Quantum Institute.
 
 #####  Important
 Life wants you to be happy.
