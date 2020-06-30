@@ -18,7 +18,7 @@ This project has been tested on Jupyter Notebook 6.0.3 with:
 * Safari 13.1.1 
 
 ##### Overview
-View your name as a Quantum Circuit.  Watch as the binary values of your name's letters create a quantum ciruit with a set of quantum gates.  Run the circuit on a real IBM Quantum computer.  The final results are illustrated as colors representing the probabilty distribution of the quantum states.
+View your name as a Quantum Circuit.  Watch as the binary values of your name's letters create a quantum circuit with a set of quantum gates.  Run the circuit on a real IBM Quantum computer.  The final results are illustrated as colors representing the probabilty distribution of the quantum states.
 
 ##### Loading
 To load locally, download the repository, install [Jupyter](https://jupyter.org/) launch from your browser.
